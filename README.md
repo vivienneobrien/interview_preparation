@@ -29,6 +29,7 @@
 * [Cracking the Code Interview Book](https://www.academia.edu/38223757/Cracking_the_Coding_Interview_6th_Edition_189_Programming_Questions_and_Solutions)
 * [Hackerrank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * [Leetcode](https://leetcode.com/)
+* [Curated List of Top 75 LeetCode](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
 ### Week 1 (28th September - 4th October)
 * Create Interview Preparation Repository.
