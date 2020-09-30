@@ -36,7 +36,7 @@
 * Carry out 3 easy-level Hackerrank questions in the morning to build confidence.
 * Revise Big O in Cracking the Code Interview.
 * Solve the questions in Array & Strings chapter in Cracking the Code Interview in this repository, discuss if unable to solve. **Do not look at solutions**. 
-*Goals by end of week: 
+* Goals by end of week: 
 	- Revision of Java foundations
 	- Ability to manipulate indexes of any number in a list using various for loops
 	- Ability to identify time & space complexity of all the algorithms implemented and why and understanding of Arrays&Strings.
