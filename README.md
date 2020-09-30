@@ -23,7 +23,7 @@
 7. Look at code before you run it. 
 8. Prepare for how a solution can change if x happens. 
 
-###Resources: 
+### Resources: 
 *	[Udemy Course: Interview Essentials: Data Structures & Algorithms](https://www.udemy.com/course/coding-interview-essentials)
 * 	[Git Inspiration: Kevin Naughton Jr.](https://github.com/kdn251/interviews)
 *	Cracking the Code Interview Book
@@ -37,6 +37,6 @@
 *	Revise Big O in Cracking the Code Interview.
 *	Solve the questions in Array & Strings chapter in Cracking the Code Interview.
 *	Goals by end of week: 
-		- Basic Revision of Java complete
-		- Understanding of indexing in a loop
-		- Ability to identify time & space complexity of all the algorithms implemented and why and understanding of Arrays&Strings.
+		#^Basic Revision of Java complete
+		#^Understanding of indexing in a loop
+		#^Ability to identify time & space complexity of all the algorithms implemented and why and understanding of Arrays&Strings.
