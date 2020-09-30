@@ -26,7 +26,7 @@
 ### Resources: 
 *	[Udemy Course: Interview Essentials: Data Structures & Algorithms](https://www.udemy.com/course/coding-interview-essentials)
 * 	[Git Inspiration: Kevin Naughton Jr.](https://github.com/kdn251/interviews)
-*	Cracking the Code Interview Book
+*	[Cracking the Code Interview Book] (https://www.academia.edu/38223757/Cracking_the_Coding_Interview_6th_Edition_189_Programming_Questions_and_Solutions)
 *	[Hackerrank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 *	[Leetcode](https://leetcode.com/)
 
@@ -37,6 +37,6 @@
 *	Revise Big O in Cracking the Code Interview.
 *	Solve the questions in Array & Strings chapter in Cracking the Code Interview.
 *	Goals by end of week: 
-		#^Basic Revision of Java complete
-		#^Understanding of indexing in a loop
-		#^Ability to identify time & space complexity of all the algorithms implemented and why and understanding of Arrays&Strings.
+		* Basic Revision of Java complete
+		* Understanding of indexing in a loop
+		* Ability to identify time & space complexity of all the algorithms implemented and why and understanding of Arrays&Strings.
