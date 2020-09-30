@@ -32,11 +32,11 @@
 
 ### Week 1 (28th September - 4th October)
 *	Create Interview Preparation Repository.
-*	Reach out to friends/mentors who are pilling to practice phone call interviews with you with the purpose of replicating an interview environment. 
+*	Reach out to friends/mentors who are willing to practice phone call interviews with you with the purpose of replicating an interview environment. 
 *	Carry out 3 easy-level Hackerrank questions in the morning to build confidence.
 *	Revise Big O in Cracking the Code Interview.
-*	Solve the questions in Array & Strings chapter in Cracking the Code Interview.
+*	Solve the questions in Array & Strings chapter in Cracking the Code Interview in this repository, search for answers then discuss if unable to solve. Do not look at solutions. 
 *	Goals by end of week: 
-		* Basic Revision of Java complete
-		* Understanding of indexing in a loop
-		* Ability to identify time & space complexity of all the algorithms implemented and why and understanding of Arrays&Strings.
+		** Revision of Java foundations
+		** Ability to manipulate indexes of any number in a list using various for loops
+		** Ability to identify time & space complexity of all the algorithms implemented and why and understanding of Arrays&Strings.
