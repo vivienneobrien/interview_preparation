@@ -24,19 +24,19 @@
 8. Prepare for how a solution can change if x happens. 
 
 ### Resources: 
-*	[Udemy Course: Interview Essentials: Data Structures & Algorithms](https://www.udemy.com/course/coding-interview-essentials)
-* 	[Git Inspiration: Kevin Naughton Jr.](https://github.com/kdn251/interviews)
-*	[Cracking the Code Interview Book](https://www.academia.edu/38223757/Cracking_the_Coding_Interview_6th_Edition_189_Programming_Questions_and_Solutions)
-*	[Hackerrank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
-*	[Leetcode](https://leetcode.com/)
+* [Udemy Course: Interview Essentials: Data Structures & Algorithms](https://www.udemy.com/course/coding-interview-essentials)
+* [Git Inspiration: Kevin Naughton Jr.](https://github.com/kdn251/interviews)
+* [Cracking the Code Interview Book](https://www.academia.edu/38223757/Cracking_the_Coding_Interview_6th_Edition_189_Programming_Questions_and_Solutions)
+* [Hackerrank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+* [Leetcode](https://leetcode.com/)
 
 ### Week 1 (28th September - 4th October)
-*	Create Interview Preparation Repository.
-*	Reach out to friends/mentors who are willing to practice phone call interviews with you with the purpose of replicating an interview environment. 
-*	Carry out 3 easy-level Hackerrank questions in the morning to build confidence.
-*	Revise Big O in Cracking the Code Interview.
-*	Solve the questions in Array & Strings chapter in Cracking the Code Interview in this repository, search for answers then discuss if unable to solve. Do not look at solutions. 
-*	Goals by end of week: 
-&nbsp;&nbsp;&nbsp; * Revision of Java foundations
-&nbsp;&nbsp;&nbsp; * Ability to manipulate indexes of any number in a list using various for loops
-&nbsp;&nbsp;&nbsp; * Ability to identify time & space complexity of all the algorithms implemented and why and understanding of Arrays&Strings.
+* Create Interview Preparation Repository.
+* Reach out to friends/mentors who are willing to practice phone call interviews with you with the purpose of replicating an interview environment. 
+* Carry out 3 easy-level Hackerrank questions in the morning to build confidence.
+* Revise Big O in Cracking the Code Interview.
+* Solve the questions in Array & Strings chapter in Cracking the Code Interview in this repository, discuss if unable to solve. **Do not look at solutions**. 
+*Goals by end of week: 
+	- Revision of Java foundations
+	- Ability to manipulate indexes of any number in a list using various for loops
+	- Ability to identify time & space complexity of all the algorithms implemented and why and understanding of Arrays&Strings.
