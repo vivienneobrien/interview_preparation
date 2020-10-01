@@ -30,6 +30,7 @@
 * [Hackerrank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * [Leetcode](https://leetcode.com/)
 * [Curated List of Top 75 LeetCode](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+* [Hacking a Google Interview – Nice PDF Exercises](http://courses.csail.mit.edu/iap/interview/materials.php)
 
 ### Week 1 (28th September - 4th October)
 * Create Interview Preparation Repository.
